@@ -44,3 +44,17 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
+### Link to Vercel where you can view the app
+
+```
+https://quiz-v2-one.vercel.app/
+```
+![Screenshot from 2023-07-21 14-31-03](https://github.com/almirsemic/quizV2/assets/90575221/98889189-7058-4fbe-86dd-3db34b823f6b)
+![Screenshot from 2023-07-21 14-30-41](https://github.com/almirsemic/quizV2/assets/90575221/6e5caa86-4739-4615-9f2b-074654bbe13e)
+![Screenshot from 2023-07-21 14-30-26](https://github.com/almirsemic/quizV2/assets/90575221/54669a13-c61f-4449-aadf-7cbb17eff552)
+![Screenshot from 2023-07-21 14-27-00](https://github.com/almirsemic/quizV2/assets/90575221/e18ec328-227d-4d93-b6a1-d6a713657a36)
+
+
